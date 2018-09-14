@@ -1,4 +1,3 @@
 # Alpha
-Cornell's SSDS Alpha Project
-\\
+Cornell's SSDS Alpha Project  
 Joao B. Mesquita
